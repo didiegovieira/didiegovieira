@@ -34,7 +34,7 @@ Linguagens & Tecnologias: `Golang`, `PHP`, `Kotlin`,\
 
 **Fullstack Developer** \
 [**Box Delivery**](https://boxdelivery.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Linguagens & Tecnologias: `Golang`, `PHP`, `Kotlin`,\
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
 <br/>
