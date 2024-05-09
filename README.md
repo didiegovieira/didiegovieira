@@ -27,7 +27,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Fullstack Developer** \
 [**Rappi**](https://www.rappi.com.br/) • Full-time \
 Linguagens & Tecnologias: `Golang`, `PHP`, `Kotlin`,\
-<!-- Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
+Projetos em destaque: [Integration Rappi-Box](),
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="BoxDelivery" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7ECrspq4nFDMvczN4Bun2F-6QdrMVsihFsRKPou79Q&s"/>](https://boxdelivery.com.br/)
@@ -35,7 +35,7 @@ Linguagens & Tecnologias: `Golang`, `PHP`, `Kotlin`,\
 **Fullstack Developer** \
 [**Box Delivery**](https://boxdelivery.com.br/) • Contract \
 Linguagens & Tecnologias: `Golang`, `PHP`, `Kotlin`,\
-<!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
+Projetos em destaque: [Logs](), [Backoffice]()
 <br/>
 <br/>
 
