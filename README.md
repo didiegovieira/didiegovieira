@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Rappi" src="https://media.licdn.com/dms/image/v2/D4D0BAQEzvKhbrbtFIA/company-logo_200_200/company-logo_200_200/0/1728311455450?e=1740009600&v=beta&t=jg0BA6AcdeKUFX6zYkF1tbt0Oxvy7ASsKhxSNZs0GPs"/>](https://www.nasten.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rappi" src="[https://media.licdn.com/dms/image/v2/D4D0BAQEzvKhbrbtFIA/company-logo_200_200/company-logo_200_200/0/1728311455450?e=1740009600&v=beta&t=jg0BA6AcdeKUFX6zYkF1tbt0Oxvy7ASsKhxSNZs0GPs](https://media.licdn.com/dms/image/v2/D4D0BAQEzvKhbrbtFIA/company-logo_200_200/company-logo_200_200/0/1728311455450?e=2147483647&v=beta&t=9GGm9JsJtdHF3p4ZvZWreCFrslJg0PBs6rlkUhgwLpc)"/>](https://www.nasten.com.br/)
 
 **Backend Developer** \
 [**Nasten**](https://www.nasten.com.br/) • Full-time \
