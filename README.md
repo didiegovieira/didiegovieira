@@ -24,7 +24,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Rappi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMXiapJO3bOHBmBO-BV8tc0VMYeuuMo7isab6h8lOiA&s"/>](https://www.rappi.com.br/)
 
-**Fullstack Developer** \
+**Backend Developer** \
 [**Rappi**](https://www.rappi.com.br/) • Full-time \
 Linguagens & Tecnologias: `Golang`, `PHP`, `Kotlin`,\
 Projetos em destaque: [Integration Rappi-Box](),
