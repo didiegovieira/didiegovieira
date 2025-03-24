@@ -26,7 +26,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Backend Developer** \
 [**Rappi**](https://www.rappi.com.br/) • Full-time \
-Linguagens & Tecnologias: `Golang`, `PHP`, `Kotlin`,\
+Linguagens & Tecnologias: `Golang`, `Python`, `AWS`,\
 Projetos em destaque: [Integration Rappi-Box](),
 <br/>
 
