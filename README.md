@@ -22,6 +22,22 @@ Here are some ideas to get you started:
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="Rappi" src="https://smartpag.app/_next/static/media/smartpaglogo.6e326895.svg"/>](https://smartpag.app/)
+
+**Backend Developer** \
+[**Smartpag**](https://smartpag.app/) • Freelance \
+Linguagens & Tecnologias: `Typescript`,\
+Projetos em destaque: [Event-Driven Data Transformation](),
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rappi" src="https://media.licdn.com/dms/image/v2/D4D0BAQEzvKhbrbtFIA/company-logo_200_200/company-logo_200_200/0/1728311455450?e=2147483647&v=beta&t=9GGm9JsJtdHF3p4ZvZWreCFrslJg0PBs6rlkUhgwLpc"/>](https://www.nasten.com.br/)
+
+**Backend Developer** \
+[**Nasten**](https://www.nasten.com.br/) • Freelance \
+Linguagens & Tecnologias: `Typescript`,\
+Projetos em destaque: [Mensageria, Unit-Tests](),
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Rappi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMXiapJO3bOHBmBO-BV8tc0VMYeuuMo7isab6h8lOiA&s"/>](https://www.rappi.com.br/)
 
 **Backend Developer** \
