@@ -20,15 +20,7 @@ Here are some ideas to get you started:
 ### Olá, meu nome é Diego Marques Vieira!
 ### Experiência de trabalho
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Rappi" src="https://smartpag.app/_next/static/media/smartpaglogo.6e326895.svg"/>](https://smartpag.app/)
-
-**Backend Developer** \
-[**Smartpag**](https://smartpag.app/) • Freelance \
-Linguagens & Tecnologias: `Typescript`,\
-Projetos em destaque: [Event-Driven Data Transformation](),
-<br/>
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente
 
 [<img align="left" height="94px" width="94px" alt="Rappi" src="https://media.licdn.com/dms/image/v2/D4D0BAQEzvKhbrbtFIA/company-logo_200_200/company-logo_200_200/0/1728311455450?e=2147483647&v=beta&t=9GGm9JsJtdHF3p4ZvZWreCFrslJg0PBs6rlkUhgwLpc"/>](https://www.nasten.com.br/)
 
