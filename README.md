@@ -24,7 +24,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Rappi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMXiapJO3bOHBmBO-BV8tc0VMYeuuMo7isab6h8lOiA&s"/>](https://www.rappi.com.br/)
 
-**Backend Developer** \
+**Software Engineer Backend I** \
 [**Rappi**](https://www.rappi.com.br/) • Full-time \
 Linguagens & Tecnologias: `Golang`, `Python`, `AWS`,\
 Projetos em destaque: [Integration Rappi-Box](),
