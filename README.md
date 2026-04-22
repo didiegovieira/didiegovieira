@@ -27,7 +27,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Software Engineer Backend** \
 [**Rappi**](https://www.rappi.com.br/) • Full-time \
 Linguagens & Tecnologias: `Golang`, `Python`, `AWS`,\
-Projetos em destaque: [Integration Rappi-Box](),
+Projetos em destaque: [DeVex]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="BoxDelivery" src="https://media.licdn.com/dms/image/v2/C4D0BAQEqm2dfNh1oOw/company-logo_200_200/company-logo_200_200/0/1635784507112/boxdeliveryonline_logo?e=2147483647&v=beta&t=3xDHomVXUY5DucjYniWnTTxDOGWvsaDBWqhEDIYXTb8"/>](https://boxdelivery.com.br/)
@@ -35,7 +35,7 @@ Projetos em destaque: [Integration Rappi-Box](),
 **Fullstack Developer** \
 [**Box Delivery**](https://boxdelivery.com.br/) • Intern \
 Linguagens & Tecnologias: `Golang`, `PHP`, `Kotlin`,\
-Projetos em destaque: [Logs](), [Backoffice]()
+Projetos em destaque: [Backoffice]()
 <br/>
 <br/>
 
