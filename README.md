@@ -33,7 +33,7 @@ Projetos em destaque: [Integration Rappi-Box](),
 [<img align="left" height="94px" width="94px" alt="BoxDelivery" src="https://media.licdn.com/dms/image/v2/C4D0BAQEqm2dfNh1oOw/company-logo_200_200/company-logo_200_200/0/1635784507112/boxdeliveryonline_logo?e=2147483647&v=beta&t=3xDHomVXUY5DucjYniWnTTxDOGWvsaDBWqhEDIYXTb8"/>](https://boxdelivery.com.br/)
 
 **Fullstack Developer** \
-[**Box Delivery**](https://boxdelivery.com.br/) • Contract \
+[**Box Delivery**](https://boxdelivery.com.br/) • Intern \
 Linguagens & Tecnologias: `Golang`, `PHP`, `Kotlin`,\
 Projetos em destaque: [Logs](), [Backoffice]()
 <br/>
