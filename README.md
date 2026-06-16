@@ -40,3 +40,13 @@ Projetos em destaque: [Backoffice]()
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/didiegovieira/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+---
+
+
+<p align="center">
+  <h3 align="left">🎧 Ouvindo agora</h3>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=htpls&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=htpls&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=light">
+  </a>
+</p>
