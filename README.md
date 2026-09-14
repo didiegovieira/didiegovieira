@@ -28,7 +28,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Software Engineer** \
 [**Rappi**](https://www.rappi.com.br/) • Full-time \
 Linguagens & Tecnologias: `Golang`, `Python`, `AWS`,\
-Projetos em destaque: [DeVex]()
+Projetos em destaque: [DeVex, External Compensations Brazil, ETL Internal]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="BoxDelivery" src="https://media.licdn.com/dms/image/v2/C4D0BAQEqm2dfNh1oOw/company-logo_200_200/company-logo_200_200/0/1635784507112/boxdeliveryonline_logo?e=2147483647&v=beta&t=3xDHomVXUY5DucjYniWnTTxDOGWvsaDBWqhEDIYXTb8"/>](https://boxdelivery.com.br/)
